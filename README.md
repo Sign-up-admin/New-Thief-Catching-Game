@@ -47,7 +47,18 @@
 6. **合并**：经审查通过后，将代码合并至主分支，并部署最新版本。
 
 ### 项目结构
-New-Thief-Catching-Game/ ├── src/ # 源代码目录 │ ├── assets/ # 游戏素材（图片、音效、动画等） │ ├── components/ # UI 组件与工具模块 │ ├── scenes/ # 不同关卡和场景的逻辑文件 │ └── main.js # 游戏入口文件 ├── tests/ # 自动化测试代码 ├── docs/ # 项目文档和设计说明 ├── .github/ # GitHub 配置（issue 模板、工作流等） ├── package.json # 项目依赖与脚本 └── README.md # 项目简介与使用说明
+New-Thief-Catching-Game/
+├── src/                   # 源代码目录
+│   ├── assets/            # 游戏素材（图片、音效、动画等）
+│   ├── components/        # UI 组件与工具模块
+│   ├── scenes/            # 不同关卡和场景的逻辑文件
+│   └── main.js            # 游戏入口文件
+├── tests/                 # 自动化测试代码
+├── docs/                  # 项目文档和设计说明
+├── .github/               # GitHub 配置（issue 模板、工作流等）
+├── package.json           # 项目依赖与脚本
+└── README.md              # 项目简介与使用说明
+
 
 
 ### 欢迎提交 Issue
